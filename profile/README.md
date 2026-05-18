@@ -1,6 +1,6 @@
-# 🐞 Senckenberg Nature Research – SDEI
+# 🐞 Senckenberg Deutsches Entomologisches Institut @ Senckenberg Nature Research
 
-Welcome to the GitHub organization for **Senckenberg Nature Research – SDEI**.
+Welcome to the GitHub organization for **Senckenberg Deutsches Entomologisches Institut**.
 
 This organization hosts repositories and collaborative work related to the **SDEI (Senckenberg Deutsches Entomologisches Institut)** and the **Information Center for Entomology Department**.
 
