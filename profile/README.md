@@ -1,4 +1,4 @@
-# 🐞 Senckenberg Deutsches Entomologisches Institut @ Senckenberg Nature Research
+# 🐞 Senckenberg Deutsches Entomologisches Institut
 
 Welcome to the GitHub organization for **Senckenberg Deutsches Entomologisches Institut**.
 
